@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-![image](https://github.com/Vanshika0301/Credit_Card_Fraud_Detection/assets/146732449/b3933f1b-cb18-4cf7-8d51-70d760aa1818)
+![image](https://github.com/Vanshika0301/Credit_Card_Fraud_Detection/assets/146732449/73471744-daaf-4942-b975-136d3e3a3eee)
 
 ## Introduction
 This project focuses on detecting fraudulent credit card transactions using machine learning algorithms. The aim is to help credit card companies identify and prevent fraudulent activities, thereby protecting customers from unauthorized charges.
